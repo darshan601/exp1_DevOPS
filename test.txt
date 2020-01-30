@@ -1,0 +1,36 @@
+﻿EXPERIMENT 1
+
+RIYA THAKKAR
+ROLL NO.:63
+
+PROGRAM:
+print("Hello World!")#prints whatever is in paranthesis
+a=1.0
+b=4
+c=1+4j
+print("a is:")
+print(type(a))
+print("b is:")
+print(type(b))
+print("c is:")
+print(type(c))
+print("Sum of a,b,c is:")
+d=a+b+c
+print(d)
+str=raw_input("Riya")
+print(str)
+
+
+OUTPUT:
+user@22dl208:~$ python test4.py
+Hello World!
+a is:
+<type 'float'>
+b is:
+<type 'int'>
+c is:
+<type 'complex'>
+Sum of a,b,c is:
+(6+4j)
+Riya
+
